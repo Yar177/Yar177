@@ -2,7 +2,7 @@
 - 👀 I’m interested in Mobile Development
 - 🌱 I’m currently learning Design Patterns for Mobile Architecture.
 - 💞️ I’m looking to collaborate on Mobile App Dev
-- 📫 How to reach me https://www.linkedin.com/in/hoshiar-sher-81540795
+- 📫 How to reach me [linkedin](https://www.linkedin.com/in/hoshiarsher/)
 
 
 <!---
