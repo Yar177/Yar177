@@ -6,6 +6,11 @@ My work centers on building practical AI and data solutions that improve decisio
 
 I also serve as Adjunct Faculty in Mathematics, Computer Science, and Statistics, where I support applied learning in analytics, computing, quantitative reasoning, and data informed problem solving.
 
+## Featured projects
+
+- **[Introduction to Healthcare Data Analytics Using Excel](https://yar177.github.io/intro-to-HDA-site/)** — an introductory textbook that teaches data analytics through real healthcare examples using Excel, published as a companion website with downloadable teaching datasets.
+- **[Healthcare AI Agent Skills](https://github.com/Yar177/medical-chart-review-skill)** — a monorepo of healthcare AI skills covering chart review, HEDIS NLP, HCC NLP, and HIPAA compliance.
+
 ## Current focus
 
 1. Machine learning and applied AI solutions
