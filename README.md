@@ -1,6 +1,6 @@
 # Dr. Hoshiar Sher
 
-AI and data solutions leader, Adjunct Faculty member, and software engineer focused on applied AI, machine learning, data products, and agentic workflow design.
+AI and data solutions leader and Adjunct Faculty member focused on applied AI, machine learning, data products, and agentic workflow design.
 
 My work centers on building practical AI and data solutions that improve decision quality, automate complex workflows, and convert operational data into usable products. I focus on the intersection of machine learning, healthcare analytics, software engineering, and AI enabled process improvement.
 
